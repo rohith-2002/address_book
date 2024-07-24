@@ -11,7 +11,7 @@ export default class users{
 
    static addUser(user){
        users.usersarray.push(user);
-       console.log(users.usersarray);
+    //    console.log(users.usersarray);
    }
 
   
