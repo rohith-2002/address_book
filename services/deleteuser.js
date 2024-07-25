@@ -11,6 +11,7 @@ function deleteUser(name){
     }
 
 }
+
 createAndStoreUser("John","123 Main St","1234567890","123456","CA");
 createAndStoreUser("Doe","123 Main St","1234567890","123456","CA");
 createAndStoreUser("Smith","123 Main St","1234567890","123456","CA");
